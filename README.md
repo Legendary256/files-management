@@ -1,5 +1,5 @@
 # files-management
-### UpWork work for Panagiotis Psomas.
+### UpWork freelancing work.
 
 To run script you need to pass two arguments.
 First is the path to text file with all files path which you want to copy. Second one is a path of destinarion directory.
