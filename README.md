@@ -6,4 +6,5 @@ First is the path to text file with all files path which you want to copy. Secon
 ```
 python3 move.py -file-paths-file="PATH" -destination-path="PATH"
 ```
-In place of PATH type paths.
+In place of PATH type paths.<br />
+File `file_paths.txt` is a sample how should text file look like
