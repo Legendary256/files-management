@@ -1,0 +1,4 @@
+/Users/maciejtarasiuk/Developer/work/start/file1.txt
+/Users/maciejtarasiuk/Developer/work/start/file2.txt
+/Users/maciejtarasiuk/Developer/work/start/file3.txt
+/Users/maciejtarasiuk/Developer/work/start/file4.txt
